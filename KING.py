@@ -1,1 +1,3 @@
-import KING1
+import os
+os.system('git pull')
+import KING
